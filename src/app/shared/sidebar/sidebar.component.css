@@ -1,0 +1,9 @@
+li {
+    cursor: pointer;
+}
+li:hover {
+    background-color: rgba(0, 255, 255, 0.397);
+}
+li.active:hover {
+    background-color: #0d6efd;
+}
